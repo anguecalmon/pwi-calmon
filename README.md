@@ -1,4 +1,3 @@
-# pwi-calmon
 ## André Calmon 👨🏻‍💻
 ### Olá, Devs!! 👋🏼
 Atualmente cursando desenvolvimento de sistemas 💻  na Etec Camargo Aranha, sob orientação do **Profº João Siles**, esse diretório corresponde às aulas de **Programação Web**, onde pretendo demonstrar o meu amor por programação e também os meus projetos.
@@ -7,11 +6,9 @@ Atualmente cursando desenvolvimento de sistemas 💻  na Etec Camargo Aranha, so
 - 📫 Como entrar em contato comigo: **@anguecalmon**
 - ⚡ Curiosidade: Já realizei um curso de 6 meses de **Java** ☕
 
-### Estou aprendendo 🔮:
+### Estou aprendendo 📚:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
 
 ### Contatos 📞:
 
