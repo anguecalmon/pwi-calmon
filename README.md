@@ -4,7 +4,6 @@ Atualmente cursando desenvolvimento de sistemas 💻  na Etec Camargo Aranha, so
 
 - 🔭 Presentemente estou estudando sobre **front-end**
 - 📫 Como entrar em contato comigo: **@anguecalmon**
-- ⚡ Curiosidade: Já realizei um curso de 6 meses de **Java** ☕
 
 ### Estou aprendendo 📚:
 
